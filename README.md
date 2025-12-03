@@ -5,8 +5,8 @@ This is an exploratory data analysis (EDA) project regarding the potential corre
 ### Credits to the original projects:
 > Original group mates include:
 >
-> Wilson Gachunga
-> Thomas Gibson
-> Emilia Trinkett
+> Wilson Gachunga,
+> Thomas Gibson,
+> Emilia Trinkett,
 > Logan Keiper
 

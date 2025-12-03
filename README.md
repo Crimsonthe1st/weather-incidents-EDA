@@ -2,6 +2,9 @@
 
 This is an exploratory data analysis (EDA) project regarding the potential correlation between London weather conditions and the London Fire Brigade calls.
 
+> Data Source for London Fire Brigade data: [kaggle](https://www.kaggle.com/datasets/jonbown/london-fire-brigade-incidents?select=lfb_metadata.csv)
+> Data Source for London Weather Timeseries: [ecad](https://www.ecad.eu/dailydata/index.php)
+
 ### Credits to the original projects:
 > The original repository can be found here: [link](https://github.com/Thomas-Gibson/DataScience-Group-9)
 >

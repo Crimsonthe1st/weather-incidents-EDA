@@ -11,10 +11,6 @@ This is an exploratory data analysis (EDA) project regarding the potential corre
 > Thomas Gibson,
 > Emilia Trinkett,
 > Logan Keiper
->
-> Original workflow:
->
-> Data cleaning -> 
 
 ### Navigation
 

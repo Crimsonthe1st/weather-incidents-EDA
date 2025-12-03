@@ -3,10 +3,25 @@
 This is an exploratory data analysis (EDA) project regarding the potential correlation between London weather conditions and the London Fire Brigade calls.
 
 ### Credits to the original projects:
+> The original repository can be found here: [link](https://github.com/Thomas-Gibson/DataScience-Group-9)
+>
 > Original group mates include:
 >
 > Wilson Gachunga,
 > Thomas Gibson,
 > Emilia Trinkett,
 > Logan Keiper
+>
+> Original workflow:
+>
+> Data cleaning -> 
+
+### Navigation
+
+In this repository you will find this project is broken up into sections;
+
+- EDA: Incorporates data cleaning, normalization, and visualization of clean vs 'dirty' data using Seaborn.
+- Hypothesis Testing: Formulation of hypotheses that this data could address.
+- Model Creation: Based on the hypotheses, machine learning models will be created to predict results of fire calls given weather data that day.
+- Final Visualization: A final report of all work wrapped up into a PowerBI report.
 
